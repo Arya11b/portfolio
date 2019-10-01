@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36c5dbd9-c035-44a9-82fd-90f765a8041a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,12 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
+            <state relative-caret-position="-904">
               <caret line="86" selection-start-line="86" selection-end-line="86" />
-              <folding>
-                <element signature="e#4296#4303#0" expanded="true" />
-                <element signature="e#6813#6820#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -31,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="921">
+            <state relative-caret-position="22140">
               <caret line="1107" column="3" selection-start-line="1107" selection-start-column="3" selection-end-line="1107" selection-end-column="3" />
             </state>
           </provider>
@@ -40,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/creative.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
+            <state relative-caret-position="2980">
               <caret line="9" column="140956" selection-start-line="9" selection-start-column="140956" selection-end-line="9" selection-end-column="140956" />
               <folding>
                 <element signature="e#23081#23315#2" expanded="true" />
@@ -71,6 +68,7 @@
       <find>h4</find>
       <find>&quot;&quot;</find>
       <find>margin</find>
+      <find>Serv</find>
     </findStrings>
     <replaceStrings>
       <replace>cv</replace>
@@ -99,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,7 +109,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,12 +142,14 @@
       <updated>1569527998983</updated>
       <workItem from="1569528002179" duration="1999000" />
       <workItem from="1569736736508" duration="1684000" />
-      <workItem from="1569822963434" duration="6176000" />
+      <workItem from="1569822963434" duration="7646000" />
+      <workItem from="1569839339485" duration="598000" />
+      <workItem from="1569911620829" duration="274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9859000" />
+    <option name="totallyTimeSpent" value="12201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
@@ -180,9 +180,23 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-904">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/creative.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22140">
+          <caret line="1107" column="3" selection-start-line="1107" selection-start-column="3" selection-end-line="1107" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/creative.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
+        <state relative-caret-position="2980">
           <caret line="9" column="140956" selection-start-line="9" selection-start-column="140956" selection-end-line="9" selection-end-column="140956" />
           <folding>
             <element signature="e#23081#23315#2" expanded="true" />
@@ -199,24 +213,6 @@
             <element signature="e#72012#72248#2" expanded="true" />
             <element signature="e#100357#100534#2" expanded="true" />
             <element signature="e#100580#100757#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/creative.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="921">
-          <caret line="1107" column="3" selection-start-line="1107" selection-start-column="3" selection-end-line="1107" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-          <folding>
-            <element signature="e#4296#4303#0" expanded="true" />
-            <element signature="e#6813#6820#0" expanded="true" />
           </folding>
         </state>
       </provider>
